@@ -1,4 +1,4 @@
-Olá, eu sou Stephane Vale e estudo programação
+Olá, eu sou Stephane Vale estudante do curso de Desenvolvimento de Sistemas do IFSC.
 
 
 - 🌱 Estou aprendendo Python, Javascript, Css e HTML.
